@@ -4,36 +4,177 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b25be74-063a-4e39-9adc-ba58b55e8a5c" name="Changes" comment="" />
+    <list default="true" id="8b25be74-063a-4e39-9adc-ba58b55e8a5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/array/ArrayFindPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/array/DuplicatesElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/array/LargestSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/array/SortBinaryArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/array/SubArrayWithZeroSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/array/SubArrayWithZeroSumPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/codingame/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/codingame/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/codingame/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/codingame/NumeralToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/helpincode/codingame/RunnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/helpincode/array/ArrayFindPairTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/helpincode/array/DuplicatesElementArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/helpincode/array/LargestSubArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/helpincode/array/SortBinaryArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/helpincode/array/SubArrayWithZeroSumPrintTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/helpincode/array/SubArrayWithZeroSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2MgdmDPt4ZWPC2OIlkyOMpKzSVW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/abdoulayewane/IdeaProjects/DataStructuresAlgorithms&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.linters.tslint&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dev.helpincode.array" />
+      <recent name="dev.helpincode.codingame" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dev.helpincode.array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RunnerClass">
+    <configuration name="NumeralToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.helpincode.codingame.NumeralToRoman" />
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.helpincode.codingame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.helpincode.codingame.RunnerClass" />
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.helpincode.codingame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestSubArrayTest.when_subarray_existing_should_return_the_largest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.helpincode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.helpincode.array" />
+      <option name="MAIN_CLASS_NAME" value="dev.helpincode.array.LargestSubArrayTest" />
+      <option name="METHOD_NAME" value="when_subarray_existing_should_return_the_largest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArrayWithZeroSumPrintTest.when_sub_array_exist_an_integer_array_should_return_true" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.helpincode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.helpincode.array" />
+      <option name="MAIN_CLASS_NAME" value="dev.helpincode.array.SubArrayWithZeroSumPrintTest" />
+      <option name="METHOD_NAME" value="when_sub_array_exist_an_integer_array_should_return_true" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArrayWithZeroSumPrintTest.when_sub_array_not_exist_an_integer_array_should_return_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.helpincode.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dev.helpincode.array" />
+      <option name="MAIN_CLASS_NAME" value="dev.helpincode.array.SubArrayWithZeroSumPrintTest" />
+      <option name="METHOD_NAME" value="when_sub_array_not_exist_an_integer_array_should_return_false" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunnerClass" />
+        <item itemvalue="Application.NumeralToRoman" />
+        <item itemvalue="JUnit.LargestSubArrayTest.when_subarray_existing_should_return_the_largest" />
+        <item itemvalue="JUnit.SubArrayWithZeroSumPrintTest.when_sub_array_not_exist_an_integer_array_should_return_false" />
+        <item itemvalue="JUnit.SubArrayWithZeroSumPrintTest.when_sub_array_exist_an_integer_array_should_return_true" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +183,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678193319620</updated>
+      <workItem from="1678193321382" duration="14674000" />
+      <workItem from="1678459986025" duration="18000" />
+      <workItem from="1679673462559" duration="67000" />
+      <workItem from="1679673550550" duration="7766000" />
+      <workItem from="1690560052264" duration="1376000" />
+      <workItem from="1690576823911" duration="18292000" />
+      <workItem from="1690683424569" duration="17197000" />
+      <workItem from="1691607275781" duration="4648000" />
+      <workItem from="1694212506760" duration="1501000" />
+      <workItem from="1695484289197" duration="6276000" />
+      <workItem from="1695949430961" duration="25275000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
